@@ -64,13 +64,13 @@ GitHubCalendar(".calendar", "srjizhere", {
 
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1wLRO85Y3cXvrL9jNLuyZkg3qMsDtLsqa/view?usp=sharing"
+    "https://drive.google.com/file/d/1wLRO85Y3cXvrL9jNLuyZkg3qMsDtLsqa/view?usp=drive_link"
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1wLRO85Y3cXvrL9jNLuyZkg3qMsDtLsqa/view?usp=sharing"
+    "https://drive.google.com/file/d/1wLRO85Y3cXvrL9jNLuyZkg3qMsDtLsqa/view?usp=drive_link"
   );
 };
 
